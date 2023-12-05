@@ -1,3 +1,3 @@
 module github.com/harishkrishnan24/celeritas
 
-go 1.18
+go 1.21
